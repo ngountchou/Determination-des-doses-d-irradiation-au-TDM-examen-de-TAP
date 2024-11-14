@@ -10,13 +10,13 @@ Blablabla
 1. **Problematique:**
 Blablabla
 
-2.**Question de recherche:**
+2. **Question de recherche:**
    comment optimiser les dose d'irradiation au TAP
    
-3.**Objectif general:**
+3. **Objectif general:**
    la radioprotection des patients au TAP.
    
-4.**Objectifs specifiques:**
+4. **Objectifs specifiques:**
    Determiner les doses d'irradiation au TAP dans les 4 hopitaux
    Apporter des suggestions pour une optimisation des doses au TAP
 
