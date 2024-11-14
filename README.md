@@ -6,6 +6,8 @@
 constat des doses d'irradiation eleves. enquete dans 4 hopitaux de l'ouest Cameroun. Collecte des donnees suivant la fiche particuliere, utilisation de Excel pour effectuer les analyses statistiques
 resultats montrant des differences de doses sinificatives pour la meme indication dans les hopitaux differents. Difference dues a l'abscence de standardisation des protocoles d'acquisition...
 
+---
+
 ## Introduction
 Blablabla
 
